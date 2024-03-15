@@ -39,3 +39,5 @@ This section is dedicated to keep track of what I used to help complete this pro
 
 ## Update Log
 3/13/2024: Created github repo, took a look at the challenge.
+
+3/14/2024: Completed Steps 1-4 (data preprocessing)
